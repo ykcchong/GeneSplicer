@@ -7,4 +7,5 @@
 - not that any of these mattered
 - im just placing them here for my own comfort of use
 
-Thanks
+Copyright (c) 2003, The Institute for Genomic Research (TIGR), Rockville, Maryland, U.S.A.  All rights reserved.
+The trivial modifications here are placed in the public domain. 
